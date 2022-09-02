@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "prolibudbadmin@marketing-dev-prolibu-db",
+    "password": "DbManagent2022!",
+    "database": "prolibuDb",
+    "host": "marketing-dev-prolibu-db.postgres.database.azure.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "Auto2020Z",
+    "database": "prolibuDb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Auto2020Z",
+    "database": "prolibuDb",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
